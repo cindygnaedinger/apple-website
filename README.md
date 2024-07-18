@@ -1,8 +1,16 @@
-# React + Vite
+# Apple Website for iPhone 15 Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project showcases the iPhone 15 Pro on a responsive website built with React and GSAP animations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design
+- Smooth navigation with GSAP animations
+- 3D models of iPhone 15 Pro for interactive viewing
+
+## Demo:
+https://github.com/user-attachments/assets/bc48b7f3-49ae-4160-956a-4e8cb1c6df49
+
+
+
